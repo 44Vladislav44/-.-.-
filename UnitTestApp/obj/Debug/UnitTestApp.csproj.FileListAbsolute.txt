@@ -1,0 +1,3 @@
+C:\Users\Lenovo\OneDrive\Рабочий стол\Калькулятор Ягелло В.А\UnitTestApp\obj\Debug\UnitTestApp.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Калькулятор Ягелло В.А\UnitTestApp\obj\Debug\UnitTestApp.dll.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Калькулятор Ягелло В.А\UnitTestApp\obj\Debug\UnitTestApp.csproj.CoreCompileInputs.cache
