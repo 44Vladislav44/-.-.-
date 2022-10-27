@@ -1,4 +1,5 @@
-# -.-.-
+# Калькулятор
+
 20ИТ-3 Ягелло Владислав Анатольевич
 
 ![image](https://user-images.githubusercontent.com/116851335/198417016-fa344bff-0da9-4ccd-81a9-961a7b811494.png)
